@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256754244039",
+    "project_id": "chatmade-eb1fe",
+    "storage_bucket": "chatmade-eb1fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256754244039:android:d90e9b1858ef0b60d921e2",
+        "android_client_info": {
+          "package_name": "com.example.chatmade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehxB8Y74N1MVyFOoyglCxWY7BDOhx7Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
